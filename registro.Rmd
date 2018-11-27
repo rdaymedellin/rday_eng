@@ -1,6 +1,6 @@
 ---
-title: "Registro"
+title: "Registration"
 ---
 
-Aquí va la información de registro.
+Here will be the information.
 
