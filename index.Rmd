@@ -2,7 +2,11 @@
 title: ""
 ---
 
-<h1><center>Wellcome.</center></h1>
+<h2> </h2>
 
 <img src="imagenes/medellin2.png" alt="Mountain View">
 
+<center>
+To visit our page in Spanish
+<a href="https://rdaymedellin.github.io/index.html"><img border="0" src="imagenes/esp.png" width="45" height="30"></a>
+</center>

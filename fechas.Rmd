@@ -1,10 +1,10 @@
 ---
-title: "Fechas importantes"
+title: "Important dates"
 ---
 
-| Actividad                                                          | Fecha      |
+| Activity                                                           | Date      |
 |--------------------------------------------------------------------|------------|
-| Inicio de inscripciones                                            | 01/xx/2018 |
-| Início del sometimiento de propuestas (presentaciones)             | xx/xx/2019 |
-| Fin del sometimiento de propuestas (presentaciones)                | xx/xx/2019 |
-| Fin de las inscripciones                                           | xx/xx/2019 |
+| Opening of registration                                            | 01/xx/2018 |
+| Opening of submission (abstracts)                                  | xx/xx/2019 |
+| Opening of submission (abstracts)                                  | xx/xx/2019 |
+| End of registration                                                | xx/xx/2019 |

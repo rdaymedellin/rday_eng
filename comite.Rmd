@@ -1,8 +1,8 @@
 ---
-title: "Comité"
+title: "Committee"
 ---
 
-## Comisión organizadora
+## Local organization committee
 
 - Olga Usuga (UdeA)
 - Marisol Valencia (UdeA)
@@ -10,6 +10,6 @@ title: "Comité"
 - Mauricio Mazo (Unal Medellín)
 
 
-## Contacto
+## Contact
 
-Entre en contacto por este [email](mailto:rdaymedellin@gmail.com).
+email: rdaymedellin@gmail.com

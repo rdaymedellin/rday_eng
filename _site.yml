@@ -4,12 +4,12 @@ navbar:
   title: "Home"
   left:
     - text: "Program"
-      href: program.html
-    - text: "Registro"
+      href: programa.html
+    - text: "Registration"
       href: registro.html
-    - text: "Fechas"
+    - text: "Dates"
       href: fechas.html
-    - text: "Comité"
+    - text: "Committee"
       href: comite.html
 output:
   html_document:
