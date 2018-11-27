@@ -1,5 +1,5 @@
 ---
-title: "Programa"
+title: "Program"
 ---
 
 Abajo se encuentra el programa provisional del evento.
