@@ -8,5 +8,5 @@ title: ""
 
 <center>
 To visit our page in Spanish
-<a href="https://rdaymedellin.github.io/index.html"><img border="0" src="imagenes/esp.png" width="45" height="30"></a>
+<a href="https://rdaymedellin.github.io/index.html"><img border="0" src="imagenes/esp.png" width="35" height="25"></a>
 </center>
