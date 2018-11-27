@@ -1,0 +1,19 @@
+name: "Rday"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "Programa"
+      href: programa.html
+    - text: "Registro"
+      href: registro.html
+    - text: "Fechas"
+      href: fechas.html
+    - text: "Comité"
+      href: comite.html
+output:
+  html_document:
+    theme: cosmo
+    includes:
+      after_body: footer.html
+      in_header: header.html

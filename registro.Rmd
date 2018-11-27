@@ -1,0 +1,6 @@
+---
+title: "Registro"
+---
+
+Aquí va la información de registro.
+
