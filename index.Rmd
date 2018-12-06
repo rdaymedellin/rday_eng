@@ -18,6 +18,4 @@ To visit our page in Spanish
 Supported by
 </center>
 
-
-
 <img src="imagenes/auxiliar.png" alt="Universidades organizadoras">

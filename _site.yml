@@ -9,6 +9,8 @@ navbar:
       href: registro.html
     - text: "Dates"
       href: fechas.html
+    - text: "Medellín"
+      href: medellin.html
     - text: "Committee"
       href: comite.html
 output:
