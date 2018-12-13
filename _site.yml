@@ -5,16 +5,24 @@ navbar:
   left:
     - text: "Program"
       href: programa.html
+    - text: "Speakers"
+      href: conferencistas.html
     - text: "Venue"
-      href: lugar.html
+      menu:
+      - text: Medellín
+        icon: fa-warehouse
+        href: medellin.html
+      - text: Place
+        icon: fa-map-marker
+        href: lugar.html
     - text: "Registration"
       href: registro.html
     - text: "Dates"
       href: fechas.html
-    - text: "Medellín"
-      href: medellin.html
     - text: "Committee"
       href: comite.html
+    - text: "Code of conduct"
+      href: conducta.html
   right:
   - icon: fa-twitter
     href: https://twitter.com/MedellinRday
