@@ -15,7 +15,15 @@ To visit our page in Spanish
 <br/>
 
 <center>
-Supported by
+<img src="imagenes/logo.png" alt="Logo" width="150" height="150">
 </center>
 
-<img src="imagenes/auxiliar.png" alt="Universidades organizadoras">
+<br/>
+<br/>
+
+<center>
+Supported by
+<br/>
+<br/>
+<img src="imagenes/auxiliar.png" alt="Universidades organizadoras" width="450" height="450">
+</center>
