@@ -15,7 +15,7 @@ To visit our page in Spanish
 <br/>
 
 <center>
-<img src="imagenes/logo.png" alt="Logo" width="150" height="150">
+<img src="imagenes/hexalogo.jpg" alt="Logo" width="150" height="150">
 </center>
 
 <br/>
