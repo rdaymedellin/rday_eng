@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -255,18 +256,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -365,19 +354,29 @@ $(document).ready(function () {
 
 <p>We are happy to introduce our confirmed keynote speakers:</p>
 <center>
-<img src="imagenes/gabriela.png" width="300" height="300" alt=""> Gabriela de Queiroz<br />
+<p><img src="imagenes/gabriela.png" width="300" height="300" alt=""></p>
+Gabriela de Queiroz<br />
 Founder &amp; CEO <span class="citation">@R-Ladies</span><br />
-Sr. Developer Advocate (ML/DL/AI) <span class="citation">@IBM</span><br />
+Sr. Developer Advocate (ML/DL/AI) <span class="citation">@IBM</span><br />
 Data Scientist + Speaker + Mentor + Advisor<br />
 <a href="https://twitter.com/gdequeiroz"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://k-roz.com/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
 <p><br> <br></p>
 <center>
-<img src="imagenes/mine.png" width="300" height="300" alt=""> Mine CetinkayaRundel<br />
-Associate Professor of the Practice<br />
-Director of Undergraduate Studies<br />
-Department of Statistical Science, Duke University<br />
+<p><img src="imagenes/mine.png" width="300" height="300" alt=""></p>
+Mine Çetinkaya-Rundel<br />
+Senior Lecturer, University of Edinburgh<br />
+Data Scientist &amp; Professional Educator, RStudio<br />
+Associate Professor of the Practice, Duke University<br />
 <a href="https://twitter.com/minebocek"><img border="0" src="imagenes/twitter.png" width="35" height="25"></a> <a href="https://www2.stat.duke.edu/~mc301/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
+</center>
+<p><br> <br></p>
+<center>
+<p><img src="imagenes/jairo2.png" width="330" height="330" alt=""></p>
+Jairo Fúquene<br />
+Statistical consultant to Vital Strategies,<br />
+on the Bloomberg Philanthropies Data for Health Initiative<br />
+<a href="https://www.jairofuquene.com/"><img border="0" src="imagenes/homepage.png" width="35" height="25"></a>
 </center>
 
 <br>
@@ -401,6 +400,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
