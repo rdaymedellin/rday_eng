@@ -15,8 +15,6 @@ navbar:
       - text: Place
         icon: fa-map-marker
         href: lugar.html
-    - text: "Registration"
-      href: registro.html
     - text: "Dates"
       href: fechas.html
     - text: "Committee"

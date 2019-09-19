@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -255,18 +256,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -324,9 +313,6 @@ $(document).ready(function () {
   </ul>
 </li>
 <li>
-  <a href="registro.html">Registration</a>
-</li>
-<li>
   <a href="fechas.html">Dates</a>
 </li>
 <li>
@@ -363,7 +349,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>To explore Medellín please visit <a href="https://medellin.travel/en/" class="uri">https://medellin.travel/en/</a></p>
+<p>To explore Medellín please visit <a href="https://medellin.travel/en/">https://medellin.travel/en/</a></p>
 <p><br/></p>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k-OD3KaVHSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
@@ -391,6 +377,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
